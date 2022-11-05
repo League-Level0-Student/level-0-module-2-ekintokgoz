@@ -10,7 +10,7 @@ public class MethodCall {
 		
 	}
 	
-	static void printMessage(String aMessage) {
-		System.out.println(aMessage);
+	static void printMessage(String helloWorld) {
+		System.out.println("hello World");
 	}
 }
